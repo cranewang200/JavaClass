@@ -1,0 +1,18 @@
+/**
+ * 
+ *Assessment: CST8116 311 Exercise 02
+ *Student Name: Ming Wang
+ *Lab Professor Name: Stanley Pieda
+ *Lab Section Number: 311
+ *Due Date: Friday, Jan. 29
+ */
+public class MingWangLabDemo {
+	//main entry of program
+	public static void main(String[] args) {
+		double number1 = Math.PI; //declare variable number1 and assign value PI to it
+		System.out.println("PI equals = :" + number1);
+		
+
+	}
+
+}

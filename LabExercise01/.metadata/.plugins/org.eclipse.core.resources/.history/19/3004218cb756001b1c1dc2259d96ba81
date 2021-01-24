@@ -1,0 +1,21 @@
+/*
+ * Assessment: Exercise 01
+ * Student Name: Ming Wang
+ * Due Date: Friday, Jan. 22
+ * Description: A simple program to output a name and the date and time.
+ * Professor Name: Stanley Pieda
+ */
+import java.util.Date;
+import java.text.DateFormat;
+
+/* A simple class that outputs a greeting to the console. */
+public class Greeting{
+
+    /* Entry point for the application. */
+    public static void main(String[] args){
+	Date todayDateTime = new Date();
+	DateFormat dateFormat = DateFormat.getDateTimeInstance();
+        System.out.println("Hello, my author's name is " + "Ming Wang");
+        System.out.println("Today is: " + dateFormat.format(todayDateTime));
+    }
+}
