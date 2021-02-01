@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Display"/>
+    <fullyQualifiedTypeName name="Clock"/>
+    <fullyQualifiedTypeName name="org.graalvm.graphio.GraphOutput"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="notebook.NoteBook"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.resources.CompilerProperties.Notes"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.xpath.internal.operations.String"/>
+    <fullyQualifiedTypeName name="java.awt.geom.NoninvertibleTransformException"/>
+    <fullyQualifiedTypeName name="Role"/>
+    <fullyQualifiedTypeName name="com.sun.tools.classfile.Opcode.Set"/>
+    <fullyQualifiedTypeName name="com.ming.practice.Role"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.ui.action.ShowAction"/>
+    <fullyQualifiedTypeName name="com.ming.practice.Circle"/>
+    <fullyQualifiedTypeName name="com.ming.practice.CircleV2"/>
+    <fullyQualifiedTypeName name="com.sun.beans.editors.DoubleEditor"/>
+    <fullyQualifiedTypeName name="com.ming.practice.CircleV3"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="com.ming.practice.Hero"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.awt.print.Printable"/>
+    <fullyQualifiedTypeName name="com.sun.rowset.internal.CachedRowSetReader"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="com.ming.practice.GameRoom"/>
     <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
+    <fullyQualifiedTypeName name="com.ming.practice.HumanPlayer"/>
+    <fullyQualifiedTypeName name="com.ming.practice.ComPlayer"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
+    <fullyQualifiedTypeName name="com.ming.practice.God"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalAccessError"/>
 </qualifiedTypeNameHistroy>

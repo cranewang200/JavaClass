@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 /**
  * demo math.random 
  *Assessment: CST8116 311 Exercise 1
@@ -6,8 +8,10 @@
  *Lab Section Number: 311
  *Due Date: Friday, Jan. 22
  */
+
 public class MathRandomEemo {
 
+	
 	public static void main(String[] args) {
 		int num = 88, num1 = 99;
 		for (int i = 0; i < num1; i++) {
