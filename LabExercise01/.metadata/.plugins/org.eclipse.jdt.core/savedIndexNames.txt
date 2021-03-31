@@ -1,9 +1,0 @@
-INDEX VERSION 1.131+C:\CST8116 Homework\LabExercise01\.metadata\.plugins\org.eclipse.jdt.core
-4074955021.index
-3322462995.index
-3000443040.index
-1570216487.index
-3778077582.index
-3456752004.index
-2252749051.index
-3866982785.index
