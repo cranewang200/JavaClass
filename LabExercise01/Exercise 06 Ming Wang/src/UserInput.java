@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Assessment: CST8116 311 Exercise 6 Student Name: Ming Wang Lab Professor
  * Name: Stanley Pieda Lab Section Number: 311 Due Date: Friday, March.19
  * Description: UserInput class has two method to let user input the value of
- * weight and mode of shipping
+ * weight and mode of shipping....
  */
 /*
  * UserInput class to let user input the value of weight and mode of shipping
